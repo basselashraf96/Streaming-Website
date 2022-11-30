@@ -1,9 +1,9 @@
 {
   "streams": [
     {
-      "title": "Rocket League Stream",
-      "description": "Watch me breaking some ankles ya Andrew ya noob",
-      "userId": "109644719628459976092",
+      "title": "testing live stream",
+      "description": "Attempts to connect OBS to localhost:8000/live/1",
+      "userId": "101058684150147156058",
       "id": 1
     }
   ]
